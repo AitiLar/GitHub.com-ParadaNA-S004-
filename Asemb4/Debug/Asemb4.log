@@ -1,0 +1,8 @@
+﻿  Asemb4.cpp
+C:\Users\Nadya\source\repos\Asemb4\Asemb4\Asemb4.cpp(31): warning C4405: str: идентификатор является зарезервированным словом
+C:\Users\Nadya\source\repos\Asemb4\Asemb4\Asemb4.cpp(130): warning C4405: str: идентификатор является зарезервированным словом
+C:\Users\Nadya\source\repos\Asemb4\Asemb4\Asemb4.cpp(208): warning C4405: str: идентификатор является зарезервированным словом
+C:\Users\Nadya\source\repos\Asemb4\Asemb4\Asemb4.cpp(154,3): warning C4102: StartCopy: неиспользованная метка
+C:\Users\Nadya\source\repos\Asemb4\Asemb4\Asemb4.cpp(174,1): warning C4102: IndexBiggerLength: неиспользованная метка
+C:\Users\Nadya\source\repos\Asemb4\Asemb4\Asemb4.cpp(186,1): warning C4102: CheckLengthCopy: неиспользованная метка
+  Asemb4.vcxproj -> C:\Users\Nadya\source\repos\Asemb4\Debug\Asemb4.exe
